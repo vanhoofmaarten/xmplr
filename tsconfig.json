@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "target": "esnext",
+    "module": "nodenext",
+    "typeRoots": ["node_modules/@types", "@types"],
+    "outDir": "dist",
+    "declaration": true
+  }
+}
